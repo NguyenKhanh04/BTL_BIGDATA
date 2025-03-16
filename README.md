@@ -113,13 +113,4 @@ Biểu đồ doanh số theo thành phố
 Biểu đồ doanh số theo giờ
 Biểu đồ phân phối số lượng sản phẩm
 
-
-![Rplot01](https://github.com/user-attachments/assets/d91240b6-19e3-455f-80de-9aebcaf34847)
-
-
-
-
-
-
-
-
+![Rplot01](https://github.com/user-attachments/assets/0a3e5b4a-5e24-499a-bb80-776090f0013f)
