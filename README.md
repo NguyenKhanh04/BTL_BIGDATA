@@ -1,5 +1,3 @@
-![Rplot01](https://github.com/user-attachments/assets/50661bd1-eaf2-416d-872d-13dca0ae8f4c)
-
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
@@ -114,4 +112,5 @@ Biểu đồ doanh số theo tháng
 Biểu đồ doanh số theo thành phố
 Biểu đồ doanh số theo giờ
 Biểu đồ phân phối số lượng sản phẩm
-![Rplot01](https://github.com/user-attachments/assets/74b37799-9ad5-46e2-8187-779f8e43a1b2)
+![Rplot01](https://github.com/user-attachments/assets/cfcf48a7-1e40-48c3-8c7c-bfde96520e34)
+
