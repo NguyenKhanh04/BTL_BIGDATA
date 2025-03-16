@@ -1,4 +1,5 @@
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_DAI_NAM.png/992px-Logo_DAI_NAM.png
+![logo](https://github.com/user-attachments/assets/b4a91292-46b8-48bc-bc00-f4f5396a22a9)
+
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
