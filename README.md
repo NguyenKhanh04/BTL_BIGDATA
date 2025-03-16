@@ -1,6 +1,13 @@
+ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
+
+Kết quả đạt được đó là: 
+Biểu đồ doanh số theo tháng
+Biểu đồ doanh số theo thành phố
+Biểu đồ doanh số theo giờ
+Biểu đồ phân phối số lượng sản phẩm
 ![Rplot01](https://github.com/user-attachments/assets/a2a9fa0d-0b85-4405-8d9d-2aa91d24aeba)
 
-ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
+
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
 ```R
@@ -109,8 +116,4 @@ y_pred <- predict(model, test_data)
 accuracy <- cor(y_pred, test_data$Quantity.Ordered)
 print(paste("Độ chính xác của mô hình (tương quan Pearson):", round(accuracy, 1)))
 
-Kết quả đạt được đó là: 
-Biểu đồ doanh số theo tháng
-Biểu đồ doanh số theo thành phố
-Biểu đồ doanh số theo giờ
-Biểu đồ phân phối số lượng sản phẩm
+
