@@ -2,6 +2,7 @@
 
 Kết quả đạt được đó là: 
 Biểu đồ doanh số theo tháng
+
 Biểu đồ doanh số theo thành phố
 Biểu đồ doanh số theo giờ
 Biểu đồ phân phối số lượng sản phẩm
