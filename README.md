@@ -1,6 +1,6 @@
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 
-Kết quả đạt được đó là: 
+Kết quả đạt được: 
 Biểu đồ doanh số theo tháng
 
 Biểu đồ doanh số theo thành phố
