@@ -2,8 +2,11 @@
 
 Kết quả đạt được đó là: 
 Biểu đồ doanh số theo tháng
+
 Biểu đồ doanh số theo thành phố
+
 Biểu đồ doanh số theo giờ
+
 Biểu đồ phân phối số lượng sản phẩm
 
 ![Rplot01](https://github.com/user-attachments/assets/a2a9fa0d-0b85-4405-8d9d-2aa91d24aeba)
