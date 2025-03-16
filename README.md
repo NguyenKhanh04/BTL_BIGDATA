@@ -107,10 +107,12 @@ y_pred <- predict(model, test_data)
 accuracy <- cor(y_pred, test_data$Quantity.Ordered)
 print(paste("Độ chính xác của mô hình (tương quan Pearson):", round(accuracy, 1)))
 
+
+![Rplot01](https://github.com/user-attachments/assets/20c41c43-5a7a-4ae9-9b40-4aebb4eea308)
+
 Kết quả đạt được đó là: 
 Biểu đồ doanh số theo tháng
 Biểu đồ doanh số theo thành phố
 Biểu đồ doanh số theo giờ
 Biểu đồ phân phối số lượng sản phẩm
 
-![Rplot01](https://github.com/user-attachments/assets/0a3e5b4a-5e24-499a-bb80-776090f0013f)
