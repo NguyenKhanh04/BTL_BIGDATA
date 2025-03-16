@@ -1,5 +1,3 @@
-![logo](https://github.com/user-attachments/assets/b4a91292-46b8-48bc-bc00-f4f5396a22a9)
-
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
@@ -109,6 +107,9 @@ y_pred <- predict(model, test_data)
 accuracy <- cor(y_pred, test_data$Quantity.Ordered)
 print(paste("Độ chính xác của mô hình (tương quan Pearson):", round(accuracy, 1)))
 
-🚩 Xuất dữ liệu đã xử lý
-Xuất dữ liệu đã xử lý vào file CSV:
-write.csv(df_combined, "sales2019final_clean.csv", row.names = FALSE)
+Kết quả đạt được đó là: 
+Biểu đồ doanh số theo tháng
+Biểu đồ doanh số theo thành phố
+Biểu đồ doanh số theo giờ
+Biểu đồ phân phối số lượng sản phẩm
+![Rplot01](https://github.com/user-attachments/assets/74b37799-9ad5-46e2-8187-779f8e43a1b2)
