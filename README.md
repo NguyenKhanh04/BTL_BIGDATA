@@ -1,4 +1,6 @@
-ĐỀ TÀI:XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
+![logo](https://github.com/user-attachments/assets/2a2e00c9-d4fa-402c-a3b9-9dcee9cf7669)
+
+ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
 ```R
@@ -76,6 +78,7 @@ par(mfrow=c(2, 2))
 # Biểu đồ doanh số theo tháng
 barplot(sales_value_month$Sales, names.arg = sales_value_month$Month, 
         xlab = "Months", ylab = "Sales in USD", col = "blue", main = "Sales by Month")
+
 
 # Biểu đồ doanh số theo thành phố
 barplot(sales_value_city$Sales, names.arg = sales_value_city$City, las = 2, 
