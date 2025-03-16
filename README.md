@@ -1,3 +1,5 @@
+![Rplot01](https://github.com/user-attachments/assets/50661bd1-eaf2-416d-872d-13dca0ae8f4c)
+
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
 # 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
